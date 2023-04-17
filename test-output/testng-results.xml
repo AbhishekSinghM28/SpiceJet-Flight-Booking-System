@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-17T00:00:38 IST" name="Suite" finished-at="2023-04-17T00:04:05 IST" duration-ms="206885">
+    <groups>
+    </groups>
+    <test started-at="2023-04-17T00:00:38 IST" name="Test" finished-at="2023-04-17T00:04:05 IST" duration-ms="206885">
+      <class name="guvi.TestScenarios.ValidateManageBookingTest">
+        <test-method is-config="true" signature="Startup()[pri:0, instance:guvi.TestScenarios.ValidateManageBookingTest@2ab4bc72]" started-at="2023-04-17T00:03:53 IST" name="Startup" finished-at="2023-04-17T00:04:02 IST" duration-ms="9035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method signature="ManageBookingValidation()[pri:0, instance:guvi.TestScenarios.ValidateManageBookingTest@2ab4bc72]" started-at="2023-04-17T00:04:02 IST" name="ManageBookingValidation" finished-at="2023-04-17T00:04:05 IST" duration-ms="2173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ManageBookingValidation -->
+        <test-method is-config="true" signature="close()[pri:0, instance:guvi.TestScenarios.ValidateManageBookingTest@2ab4bc72]" started-at="2023-04-17T00:04:05 IST" name="close" finished-at="2023-04-17T00:04:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- guvi.TestScenarios.ValidateManageBookingTest -->
+      <class name="guvi.TestScenarios.SignupTest">
+        <test-method is-config="true" signature="Startup()[pri:0, instance:guvi.TestScenarios.SignupTest@4a003cbe]" started-at="2023-04-17T00:00:38 IST" name="Startup" finished-at="2023-04-17T00:00:47 IST" duration-ms="8942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method signature="Signup()[pri:0, instance:guvi.TestScenarios.SignupTest@4a003cbe]" started-at="2023-04-17T00:00:47 IST" name="Signup" finished-at="2023-04-17T00:00:54 IST" duration-ms="7565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:guvi.TestScenarios.SignupTest@4a003cbe]" started-at="2023-04-17T00:00:54 IST" name="close" finished-at="2023-04-17T00:00:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- guvi.TestScenarios.SignupTest -->
+      <class name="guvi.TestScenarios.ValidateCheckInTest">
+        <test-method is-config="true" signature="Startup()[pri:0, instance:guvi.TestScenarios.ValidateCheckInTest@710636b0]" started-at="2023-04-17T00:03:28 IST" name="Startup" finished-at="2023-04-17T00:03:37 IST" duration-ms="8350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method signature="CheckInValidation()[pri:0, instance:guvi.TestScenarios.ValidateCheckInTest@710636b0]" started-at="2023-04-17T00:03:37 IST" name="CheckInValidation" finished-at="2023-04-17T00:03:39 IST" duration-ms="2472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckInValidation -->
+        <test-method is-config="true" signature="close()[pri:0, instance:guvi.TestScenarios.ValidateCheckInTest@710636b0]" started-at="2023-04-17T00:03:39 IST" name="close" finished-at="2023-04-17T00:03:39 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- guvi.TestScenarios.ValidateCheckInTest -->
+      <class name="guvi.TestScenarios.ValidateFlightStatusTest">
+        <test-method is-config="true" signature="Startup()[pri:0, instance:guvi.TestScenarios.ValidateFlightStatusTest@3de8f619]" started-at="2023-04-17T00:03:39 IST" name="Startup" finished-at="2023-04-17T00:03:49 IST" duration-ms="9642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method signature="FlightStatusValidation()[pri:0, instance:guvi.TestScenarios.ValidateFlightStatusTest@3de8f619]" started-at="2023-04-17T00:03:49 IST" name="FlightStatusValidation" finished-at="2023-04-17T00:03:53 IST" duration-ms="4657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightStatusValidation -->
+        <test-method is-config="true" signature="close()[pri:0, instance:guvi.TestScenarios.ValidateFlightStatusTest@3de8f619]" started-at="2023-04-17T00:03:53 IST" name="close" finished-at="2023-04-17T00:03:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- guvi.TestScenarios.ValidateFlightStatusTest -->
+      <class name="guvi.TestScenarios.LoginTest">
+        <test-method is-config="true" signature="Startup()[pri:0, instance:guvi.TestScenarios.LoginTest@4201c465]" started-at="2023-04-17T00:00:54 IST" name="Startup" finished-at="2023-04-17T00:01:03 IST" duration-ms="8165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method signature="LoginwithInValidCredentials()[pri:0, instance:guvi.TestScenarios.LoginTest@4201c465]" started-at="2023-04-17T00:01:03 IST" name="LoginwithInValidCredentials" finished-at="2023-04-17T00:01:04 IST" duration-ms="1823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginwithInValidCredentials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:guvi.TestScenarios.LoginTest@4201c465]" started-at="2023-04-17T00:01:04 IST" name="close" finished-at="2023-04-17T00:01:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Startup()[pri:0, instance:guvi.TestScenarios.LoginTest@4201c465]" started-at="2023-04-17T00:01:04 IST" name="Startup" finished-at="2023-04-17T00:01:14 IST" duration-ms="9190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method signature="LoginwithValidCredentials()[pri:0, instance:guvi.TestScenarios.LoginTest@4201c465]" started-at="2023-04-17T00:01:14 IST" name="LoginwithValidCredentials" finished-at="2023-04-17T00:01:19 IST" duration-ms="5818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginwithValidCredentials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:guvi.TestScenarios.LoginTest@4201c465]" started-at="2023-04-17T00:01:19 IST" name="close" finished-at="2023-04-17T00:01:19 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- guvi.TestScenarios.LoginTest -->
+      <class name="guvi.TestScenarios.BookFlightOnewayTripTest">
+        <test-method is-config="true" signature="Startup()[pri:0, instance:guvi.TestScenarios.BookFlightOnewayTripTest@5b799640]" started-at="2023-04-17T00:01:19 IST" name="Startup" finished-at="2023-04-17T00:01:28 IST" duration-ms="8453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method signature="bookFlightforOneWay()[pri:0, instance:guvi.TestScenarios.BookFlightOnewayTripTest@5b799640]" started-at="2023-04-17T00:01:28 IST" name="bookFlightforOneWay" finished-at="2023-04-17T00:02:21 IST" duration-ms="53517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookFlightforOneWay -->
+        <test-method is-config="true" signature="close()[pri:0, instance:guvi.TestScenarios.BookFlightOnewayTripTest@5b799640]" started-at="2023-04-17T00:02:21 IST" name="close" finished-at="2023-04-17T00:02:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- guvi.TestScenarios.BookFlightOnewayTripTest -->
+      <class name="guvi.TestScenarios.BookFlightTwowayTripTest">
+        <test-method is-config="true" signature="Startup()[pri:0, instance:guvi.TestScenarios.BookFlightTwowayTripTest@6cb107fd]" started-at="2023-04-17T00:02:21 IST" name="Startup" finished-at="2023-04-17T00:02:30 IST" duration-ms="8901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method signature="selectFlightforBoarding()[pri:0, instance:guvi.TestScenarios.BookFlightTwowayTripTest@6cb107fd]" started-at="2023-04-17T00:02:30 IST" name="selectFlightforBoarding" finished-at="2023-04-17T00:03:28 IST" duration-ms="58106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFlightforBoarding -->
+        <test-method is-config="true" signature="close()[pri:0, instance:guvi.TestScenarios.BookFlightTwowayTripTest@6cb107fd]" started-at="2023-04-17T00:03:28 IST" name="close" finished-at="2023-04-17T00:03:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- guvi.TestScenarios.BookFlightTwowayTripTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
